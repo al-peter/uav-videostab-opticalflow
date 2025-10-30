@@ -1,4 +1,4 @@
-// ===== FULL FILE: videostab_optflow_fixed.cpp =====
+// ===== FULL FILE: main.cpp (soft only) =====
 // Fix: apply the INVERSE motion (cancel camera movement) so yaw/pitch directions look correct.
 // All changes are marked with:  // **** CHANGED: ...
 
